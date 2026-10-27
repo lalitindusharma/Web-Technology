@@ -1,0 +1,202 @@
+#logo{
+    height: 120px;
+    width: 240px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+#navbar{
+    background-color: white;
+    margin-left:170px;
+    height: 120px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+body{
+    background-color: #F6F8FB;
+    margin: 0px;
+}
+.pages{
+    margin-top: 50px;
+    text-decoration: none;
+    color: #033835;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+/* ### ABOUT US CSS ### */
+#aboutusbox1{
+    height:300px;
+    width: 500px;
+    text-align: left;
+    margin-left: 80px;
+    border-radius: 10%;
+    font-size: 15px;
+    padding: 20px;
+}
+#aboutussubheading1{
+    margin:10px;
+    padding: 10px;
+    font-size:40px;
+    padding-left: 20px;
+    text-align: left;
+    margin-bottom: 0px ;
+    padding-bottom: 0px;
+}
+#aboutussubheading2{
+    margin:10px;
+    padding: 10px;
+    font-size:40px;
+    padding-left: 20px;
+    text-align: left;
+    margin-top: 0px ;
+    padding-top: 0px;
+}
+#startshoppingbutton{
+    text-decoration: none;
+    background-color: #0B6E69;
+    color: white;
+    padding: 30px;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 40%;
+}
+#aboutusimage1{
+    height: 300px;
+    width: auto;
+    border-radius: 10%;
+}
+#ourstory{
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+#ourstoryheading{
+    color: #0B6E69;
+    font-size:32px;
+    font-weight: 800;
+
+}
+#aboutus{
+    font-size: 10px;
+    margin-bottom: 3px;
+    padding: 0px;
+    text-align: left;
+}
+#aboutustext{
+    padding-left: 5px;
+}
+#aboutusbox101{
+    background-color: #F6F8FB;
+    height: 200px;
+    width: 250px;
+    border-radius: 15%;
+    padding-right: 40px;
+    margin-top: 10px;
+    text-align: center;
+}
+#aboutusbox102{
+    background-color: #F6F8FB;
+    height: 200px;
+    width:250px;
+    border-radius: 15%;
+    padding-right: 40px;
+    margin-top: 10px;
+    text-align: center;
+}
+#aboutusbox103{
+    background-color: #F6F8FB;
+    height: 200px;
+    width: 250px;
+    border-radius: 15%;
+    padding-right: 40px;
+    margin-top: 10px;
+    text-align: center;
+}
+#aboutusbox104{
+    background-color: #F6F8FB;
+    height: 200px;
+    width: 250px;
+    border-radius: 15%;
+    padding-right: 40px;
+    margin-top: 10px;
+    text-align: center;
+}
+#aboutusboxes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding: 25px;
+}
+#topportion{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 70px;
+}
+#aboutusbelowbox1{
+    background-color: #0B6E69;
+    height: 150px;
+    width: 500px;
+    padding: 40px;
+    margin: 20px;
+    border-radius: 10%;
+    color: white;
+    text-align: left;
+}
+#aboutusbelowbox2{
+    background-color: white;
+    height: 150px;
+    width: 500px;
+    padding: 40px;
+    margin: 20px;
+    border-radius: 10%;
+    text-align: left;
+}
+#aboutusbelowboxes{
+ display: flex;
+ flex-direction: row;
+ justify-content: space-evenly;
+ margin: 50px;
+}
+footer{
+    background-color: #12202E;
+    color: white;
+    display: inline-block;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+#aboutuspic1{
+    height: 50px;
+    width: auto;
+    padding-top: 15px;
+}
+#visionheading{
+    font-size: larger;
+}
+
+/* ### CONTACT US CSS ### */
+#contactusbody{
+    padding-left: 150px;
+}
+
+#contactusheading{
+    width: 650px;
+}
+#contactusmainheading{
+    font-size: 50px;
+    font-weight: 900;
+
+}
+#contactusmainheadingtext{
+    font-size: 20px;
+    font-weight: 400;
+}
